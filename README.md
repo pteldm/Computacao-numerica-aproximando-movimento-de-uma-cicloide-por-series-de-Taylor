@@ -1,0 +1,1 @@
+# Computa-o-Num-rica---Aproximando-movimento-de-uma-cicl-ide-por-s-ries-de-Taylor
